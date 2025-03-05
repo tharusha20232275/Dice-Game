@@ -2,7 +2,7 @@
 # Dice Game
 
 Dice game created with android studio with kotlin.
-
+#testing braches
 
 ## API Reference
 
